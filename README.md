@@ -1,2 +1,9 @@
 # CompilerDesign
-The assignments of Compiler Design at NCTU in 2019.
+The assignments of Compiler Design at NCTU in 2020.
+We implemented a compiler for P Language (professor designed).
+The compiler included :
+- a Scanner (hw1),
+- a LALR(1) Parser (hw2),
+- an Entended Parser to construct an AST (hw3),
+- an Extended Paser to perform semantic analysis (hw4), and 
+- a code generator for RISC-V instructions (hw5).
